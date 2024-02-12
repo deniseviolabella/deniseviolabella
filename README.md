@@ -1,6 +1,6 @@
 Hi there, I'm Denise Viola Bella 👋
 
-Here are some ideas to get you started:
+(Fake Web Development)
  
 - 🌱 I’m currently learning Web Development
 - 💬 Ask me about Blogger (Google)
